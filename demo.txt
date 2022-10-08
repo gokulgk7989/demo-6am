@@ -3,3 +3,4 @@ This is a second demo of git
 Git hub is a source coude managetment tool
 this is demo class
 this is for diff demo 
+This is demo undo changes in remote repository
