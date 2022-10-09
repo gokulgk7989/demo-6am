@@ -4,4 +4,8 @@ Git hub is a source coude managetment tool
 this is demo class
 this is for diff demo 
 Iam working in a feature branch
+<<<<<<< HEAD
 this change was created by Gokul
+=======
+this file is created by raju
+>>>>>>> 9a4a7610c33cb588806eaee28ac3e6fe95bd8de7
